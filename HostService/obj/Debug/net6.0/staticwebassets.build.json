@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "A17fm2jPctM7afR5z6Lcc9mVeQWsizwV7NPmEJoIN2c=",
+  "Source": "HostService",
+  "BasePath": "_content/HostService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
